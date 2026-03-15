@@ -137,8 +137,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xxx"
-database_id = "xxx"
+database_name = "emailnha-db"
+database_id = "0a845909-0ab8-4118-a7f8-e4a4876f3406"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
